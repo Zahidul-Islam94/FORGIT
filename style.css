@@ -1,6 +1,9 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1{
     color: red;
 }
 h2{
-    color: green;
+    color: rgb(25, 187, 25);
 }
